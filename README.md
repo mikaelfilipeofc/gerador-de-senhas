@@ -4,7 +4,7 @@ Sistema que cria senhas aleatórias de acordo com a quantidade de caracteres sel
 
 ### Preview 👀
 
-(https://ghkkjghyoihjkjlkj.netlify.app/)
+(https://gerakghdr.netlify.app/)
 
 https://github.com/mikaelfilipeofc/gerador-de-senhas/assets/165120574/2fb67397-f695-4c8a-b0b1-0211fb8477d6
 
